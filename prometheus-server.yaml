@@ -380,7 +380,7 @@ data:
       scheme: http
       dns_sd_configs:
       - names:
-        - opencost.opencost
+        - opencost.nirmata-opencost
         type: 'A'
         port: 9003
   recording_rules.yml: |
